@@ -1,2 +1,2 @@
-# Desafio de Projeto Primeiro Repositório sobre Git/Github
-Desafio de Projeto sobre criar o meu primeiro repositório no curso Linux
+# Desafio de Projeto sobre Git/Github curso Linux
+Primeiro repositório criado para o Desafio de Projeto no curso Linux
